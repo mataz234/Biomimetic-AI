@@ -12,7 +12,7 @@ In this project the mind is considered as the emerging property of a series of n
 
 Continuous flows of information from the senses and within the networks leave an imprint. This can be done using tecnologies such as LSTM neural networks. 
 
-An autonomous generation of information, wich can be simplified as immagination, will be implemented as a constant flow, manipolation and rearrangment of though vectors. Some of it will be hardwired (resembling instincts) and some other will be learnt and forgotten.
+An autonomous generation of information, wich can be simplified as immagination, will be implemented as a constant flow, manipolation and rearrangment of thought vectors. Some of it will be hardwired (resembling instincts) and some other will be learnt and forgotten.
 
 A temporary blockage of sensory inputs and alteration of the autogenous network flow to favor neuronal pruning, backpropagation, and avoid overfitting will take time and will be similar to animal sleep. This could be achived doubbling the whole network, connecting the two "brain emisferes" and having them sleep one at the time.
 
