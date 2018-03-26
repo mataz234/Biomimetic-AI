@@ -1,7 +1,7 @@
 
 ### Biomimetic-AI
 AI inspired by brain pathways.
-Layout of the project shown here: 
+Layout of the project are shown here: 
 https://github.com/mataz234/Biomimetic-AI/blob/master/Biomimetic-AI.png and here https://github.com/mataz234/Biomimetic-AI/blob/master/Biomimetic-AI-2.png
 ## Basic concepts and goals
 The goal of this project is to program a working model of a mind, taking inspiration from a very simplified brain connection diagram.
