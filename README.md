@@ -19,4 +19,4 @@ A temporary blockage of sensory inputs and alteration of the autogenous network 
 Self image will be present as a usefull means of predicting outcomes of higher cognitive decisions (internal world simulation).
 
 ## How to contribute
-I'm a molecular neuroscientist with some programming knowledge so please contribute with code or suggestions.
+I'm a molecular neuroscientist with limited programming knowledge so please contribute with code or suggestions.
